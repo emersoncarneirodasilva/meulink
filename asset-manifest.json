@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meulink/static/css/main.42c464f7.css",
+    "main.js": "/meulink/static/js/main.1a9fe131.js",
+    "index.html": "/meulink/index.html",
+    "main.42c464f7.css.map": "/meulink/static/css/main.42c464f7.css.map",
+    "main.1a9fe131.js.map": "/meulink/static/js/main.1a9fe131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c464f7.css",
+    "static/js/main.1a9fe131.js"
+  ]
+}
