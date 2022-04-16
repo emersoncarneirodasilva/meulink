@@ -1,0 +1,37 @@
+.menu {
+    display: flex;
+    position: absolute;
+    font-weight: bold;
+    top: 20px;
+    right: 5%;     
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.social {
+    display: flex;
+    margin-right: 14px;
+    align-items: center;
+    color: #fff;
+}
+
+.social:hover {
+    color: rgb(95, 202, 238);
+}
+
+.menu-item { /*   
+    margin-right: 14px; opcional */
+    padding: 12px 24px;
+    border-radius: 4px;
+    color: #132742;
+    background-color: #fff;
+    transition: transform 0.5s;;
+} 
+
+.menu-item:hover {
+    background-color: rgb(95, 202, 238);
+    color: #fff;
+    transform: scale(1.04);
+}

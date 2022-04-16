@@ -1,0 +1,56 @@
+.modal-container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    bottom: 10px;
+    padding: 12px 12px;
+    border-radius: 4px;
+    background-color: #fff;
+    animation: slideY 1.5s;
+}
+
+/* Animação Slide*/
+@keyframes slideY {
+    from {
+        transform: translateY(90px);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-header button {
+    border: none;
+    background: transparent;
+}
+
+.modal-container span {
+    margin: 4px;
+    color: #A7A7A7;
+}
+
+.modal-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 5px;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #172742;    
+}
+
+@media (max-width: 830px) {
+    .modal-container {
+        width: 90%;
+        bottom: 5%;
+    }    
+}
