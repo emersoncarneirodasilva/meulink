@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/meulink/static/css/main.42c464f7.css",
-    "main.js": "/meulink/static/js/main.1a9fe131.js",
+    "main.js": "/meulink/static/js/main.aaada888.js",
     "index.html": "/meulink/index.html",
     "main.42c464f7.css.map": "/meulink/static/css/main.42c464f7.css.map",
-    "main.1a9fe131.js.map": "/meulink/static/js/main.1a9fe131.js.map"
+    "main.aaada888.js.map": "/meulink/static/js/main.aaada888.js.map"
   },
   "entrypoints": [
     "static/css/main.42c464f7.css",
-    "static/js/main.1a9fe131.js"
+    "static/js/main.aaada888.js"
   ]
 }
